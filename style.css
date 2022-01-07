@@ -1,0 +1,17 @@
+body {
+    background-color: #28292B;
+}
+
+li {
+    display: inline;
+    float: right;
+    padding: 20px;
+    font-size: large;
+}
+
+#welcome-section {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    overflow: auto;
+}
